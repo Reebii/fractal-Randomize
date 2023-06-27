@@ -1,0 +1,33 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+
+}
+#canvas1{
+
+    background: black;
+    position: absolute;
+    left: 0;    
+    top: 0;
+}
+
+#But1{
+    left: 20px;
+    top:20px;
+    position:absolute   ;
+    background-color: rgb(163, 123, 74);
+    padding: 15px;
+    font-size: 20pt;
+    font-weight: bolder;
+    border-radius: 30px; 
+    border:2px solid  rgb(47, 186, 193) ;
+
+}
+
+#Random{
+  font-size: 20px; 
+  width: 220px;
+   
+
+}
